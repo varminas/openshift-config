@@ -15,7 +15,9 @@ Username: __developer__
 Password: any password
 
 ## Gitlab
-Start VirtualBox VM with Gitlab
+* Start VirtualBox VM with Gitlab
+* Start docker service
+* Start docker gitlab container
 
 URL:
 http://192.168.57.150/
