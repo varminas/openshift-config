@@ -14,6 +14,12 @@ Username: __developer__
 
 Password: any password
 
+Login to console:
+
+login: docker
+
+pass: tcuser
+
 ## Gitlab
 * Start VirtualBox VM with Gitlab
 * Start docker service
